@@ -1,0 +1,648 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Chorotheologon or Two breife but usefull treatises,  [part 2: the nature and accidents of mixt dancing]  the one touching the office and quality of the ministry of the gospell. The other of the nature and accidents of mixt dancing. In this later, the questions which concern the lawfullnesse or expediency of mixed dancing are professedly handled and resolved. By Joseph Bentham. Sometimes rector of the church of Broughton in Northampton Shire, now pastour of Neather Winchingdon, in the county of Bucks.</title>
+            <author>Bentham, Joseph, 1594?-1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 66 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76409</idno>
+            <idno type="STC">Wing B1908_pt2</idno>
+            <idno type="STC">Thomason E925_7</idno>
+            <idno type="STC">ESTC R207559</idno>
+            <idno type="EEBO-CITATION">99866603</idno>
+            <idno type="PROQUEST">99866603</idno>
+            <idno type="VID">168490</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76409)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168490)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 139:E925[6], 139:E925[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Chorotheologon or Two breife but usefull treatises,  [part 2: the nature and accidents of mixt dancing]  the one touching the office and quality of the ministry of the gospell. The other of the nature and accidents of mixt dancing. In this later, the questions which concern the lawfullnesse or expediency of mixed dancing are professedly handled and resolved. By Joseph Bentham. Sometimes rector of the church of Broughton in Northampton Shire, now pastour of Neather Winchingdon, in the county of Bucks.</title>
+                  <author>Bentham, Joseph, 1594?-1671.</author>
+               </titleStmt>
+               <extent>[8], 56 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Tho. Roycroft, for Philemon Stephens, and the Gilded Lyon in Pauls-Church Yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The second treatise (E.925[7])has a separate dated title page that reads: The second treatise, propounded by way of dialogue, touching the nature and accidents of mixed dancing.</note>
+                  <note>Annotation on Thomason copy: "7ber [i.e. September] 11th".</note>
+                  <note>First word of title transliterated from Greek.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+               <term>Dance --  Religious aspects --  Christianity --  Early works to 1800.</term>
+               <term>Clergy --  Office --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Claire Tolan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Claire Tolan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168490:1" rendition="simple:additions"/>
+            <p> THE SECOND TREATISE, Propounded by Way of DIALOGUE, Touching the Nature and Accidents of MIXED DANCING.</p>
+            <p>WHEREIN The Queſtions concerning its Lawfull<g ref="char:EOLhyphen"/>neſs and Expediency, are handled, and reſolved.</p>
+            <p>BY JOSEPH BENTHAM.</p>
+            <p>Paſtour ſometimes of the Church of <hi>Broughton</hi> in <hi>Northampton Shire,</hi> but now of <hi>Neather-Wickenden,</hi> in the County of <hi>Bucks.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1656.</p>
+            <pb facs="tcp:168490:2"/>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:168490:2"/>
+            <head>To the Chriſtian READER.</head>
+            <opener>
+               <salute>Chriſtian Reader,</salute>
+            </opener>
+            <p>THE Exerciſe of my Miniſtry being by Gods Providence in a place, where dancing was uſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d much, and unſeaſonably, I conſi<g ref="char:EOLhyphen"/>dering the dangerous effects uſually accom<g ref="char:EOLhyphen"/>panying that Exerciſe, and finding private diſcourſes, and perſwaſions fruitleſſe, I began to preach on that Subject. The ſubſtance of which Sermons (being but two) I put into the forme of a Treatiſe and Dialogue, and then gave it to ſome freinds of my own profeſſion to peruſe: Some of whom, men of judgment and ability, perſwaded me to commit it to the preſſe, which I do, not being Magiſteri<g ref="char:EOLhyphen"/>all for my opinion, nor Dicta<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our-like, obtruding my Concep<g ref="char:EOLhyphen"/>tions upon others: But propoſing them with moderation of ſpirit upon ſuch grounds of Scripture, reaſon, and experi<g ref="char:EOLhyphen"/>ence, (together with the Teſtimony of ſeverall grave Au<g ref="char:EOLhyphen"/>thors of both partyes) as may ſufficiently bottome the Ne<g ref="char:EOLhyphen"/>gative in this controverſie: With all, deſiring ſuch of my profeſſion, who upon diſquiſition may conclude mixt dan<g ref="char:EOLhyphen"/>cing juctly faulty, to unite their forces to remove it; and ſuch who are otherwiſe minded, to ſhew us what kind of mixt dancing it is they plead for, and to bound it within
+<pb facs="tcp:168490:3"/> ſuch limits, which lawfully and poſſibly may be obſerved. For my part, untill I ſee the grounds I go on, ſoundly confuted, (which I ſuppoſe I ſhall not) I cannot alter my Judge<g ref="char:EOLhyphen"/>ment, Yet remaine,</p>
+            <closer>
+               <signed>Thine in the Lord, J. B.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="33" facs="tcp:168490:3"/>
+            <head>THE SECOND TREATISE, Propounded by Way of DIALOGUE, Touching the Nature and Accidents of <hi>MIXED DANCING.</hi>
+            </head>
+            <p>Miniſter.</p>
+            <p>Countreyman.</p>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>
+                  <seg rend="decorInit">W</seg>ELL met freinds, whither away ſo fine and ſo faſt?</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Truly ſir, I and my brother Scholar are going to a harmleſſe recrea<g ref="char:EOLhyphen"/>tion, a dancing meeting, a ſport <hi>I</hi> love more then any.</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>But why do you call it an harme<g ref="char:EOLhyphen"/>leſſe recreation, which is by many good men condemned as of<g ref="char:EOLhyphen"/>fenſive and hurtfull?</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>I hope it is offenſive to none, nor at all hurtfull to any, and in caſe you can make good that charge againſt it, I ſhall diſ<g ref="char:EOLhyphen"/>like it, although as yet, <hi>I</hi> do not a little delight in it. Give me but one ſcripture condemning dancing if you can, ſcripture will prevaile much with me, and in my apprehenſion that allowes of, and commends Muſick and Dancing.</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>You ſay well that ſcripture ſhall prevaile with you, and that it approves of dancing and muſick, which although it con<g ref="char:EOLhyphen"/>ſiſts but of few notes<g ref="char:punc">▪</g> curiouſly varied, yet it makes an hundred <note place="margin">
+                     <hi>Viſion of</hi> Ba<g ref="char:EOLhyphen"/>laams <hi>aſſe.</hi>
+                  </note> kinds of ſounds, wh<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch raviſh the minds of men, ſo that <hi>Saul</hi>
+                  <pb n="34" facs="tcp:168490:4"/> affiicted with an evill ſpirit, was much comforted by playing on a harp, 1 <hi>Sam.</hi> 16. 25. <hi>Peter Hay</hi> tells us there is a kind of fu<g ref="char:EOLhyphen"/>rious madneſſe of the mind in <hi>Almayn</hi> called <hi>Sanvitus,</hi> which is not cured but by Muſick, and he brings in the cure of the <hi>Ta<g ref="char:EOLhyphen"/>rantula</hi> 
+                  <note place="margin">Pag. 207 208.</note> (recorded by many others) in <hi>Italy.</hi> By Muſick he al<g ref="char:EOLhyphen"/>ſo tells us, that <hi>Auguſtine</hi> cites out of <hi>Tully</hi> a remarkable in<g ref="char:EOLhyphen"/>ſtance, <hi>When certain younkers were tipled, and whetted with wan<g ref="char:EOLhyphen"/>ton muſick, and had attempted to break open the doors of a chaſt Ma<g ref="char:EOLhyphen"/>trons houſe,</hi> Pythagoras <hi>called to the Muſitians to play a ſlow and grave tune, upon hearing whereof, their luxurious humour was al<g ref="char:EOLhyphen"/>layed preſently. I</hi> have alſo read how one <hi>Timotheus,</hi> with one kind of Harmony, made <hi>Alexander</hi> in the midſt of a Feaſt, riſe from his freinds, and in a fury call for armes, and inſtantly changing his note, with another kind of melody, did appeaſe and reſtore him quiet to his gueſts. <hi>Certain it is, that our affe<g ref="char:EOLhyphen"/>ctions are diverſely moved according to the diverſe kind of harmo<g ref="char:EOLhyphen"/>ny,</hi> 
+                  <note place="margin">Confeſs. l, 10. c. 33 On Exod. 15. 20.</note> ſaith Saint <hi>Auguſtine,</hi> and therefore we have need to take heed of that which is laſcivious: Muſick may without doubt be uſed, ſaith our learned and laborious <hi>Willet, For Recreation, ex<g ref="char:EOLhyphen"/>cept it be againſt common order or honeſty, or againſt the work of grace or Regeneration, and to ſet forward any act of Grace or God<g ref="char:EOLhyphen"/>lineſſe, as</hi> David <hi>by his muſick allayed the malady and evill spi<g ref="char:EOLhyphen"/>rit of</hi> Saul. He alſo affirmes, <hi>That women Singers among the Jewes were of three ſorts,</hi>
+               </p>
+               <p>
+                  <hi>Firſt, For Recreation, their voices excelling mens in ſmallneſſe and ſharpneſſe, in continuance and unchangeableneſſe,</hi> Eccleſ. 2. 8. Solomon <hi>had women Singers.</hi>
+               </p>
+               <p>
+                  <hi>Secondly, For the praiſe of God in publick ſolemnities,</hi> Ezra 2 65.</p>
+               <p>
+                  <hi>Thirdly, Extraordinary, as</hi> Anna, Deborah and Miriam, <hi>who</hi> 
+                  <note place="margin">Exod. 15. Chap. 12. pag. 209, pag. 214.</note> 
+                  <hi>took a Timbrell to ſing the better in meaſure and order.</hi> According<g ref="char:EOLhyphen"/>ly it was the cuſtome of the Religious women, at ſuch times to play with Timbrells, <hi>Pſal.</hi> 68. 26. But as <hi>Peter Hay</hi> before men<g ref="char:EOLhyphen"/>tioned, (who had been a Papiſt and turned Proteſtant, writing in defence of Church muſick, and anſwering objections) ſaith, The Devill hath not only his furniſhed quire for idolatry, but his minſtrelſie for wantonneſſe, and affirms out of <hi>Bucer,</hi> to play ribbald tunes upon Organs is to offer ſacrifice to <hi>Venus.</hi>
+               </p>
+               <pb n="35" facs="tcp:168490:4"/>
+               <p> And as for dancing, a companion of muſick, <hi>Luke</hi> 15. 25.</p>
+               <p>Firſt, We read of dancing commanded, <hi>Pſal.</hi> 149. 3. 150. 4. <hi>Praiſe the Lord with the dance.</hi>
+               </p>
+               <p>Secondly, We find it practiſed by good people, <hi>Exod.</hi> 15. 20. 1 <hi>Sam.</hi> 21. 11. 2. <hi>Sam.</hi> 6. 16.</p>
+               <p>Thirdly, Amongſt other favours this is promiſed, that the Virgins ſhall rejoyce in the dance, <hi>Jer.</hi> 31. 4. 13. <hi>Go forth in the dance of them that make merry.</hi>
+               </p>
+               <p>Fourthly, That <hi>David</hi> prayſed God, <hi>For turning his mour<g ref="char:EOLhyphen"/>ning into dancing, Pſal.</hi> 30. 11.</p>
+               <p>Fifthly, <hi>Job</hi> ſpeaking of favours beſtowed on the wicked, ſaith <hi>Their children dance,</hi> Job 21. 11.</p>
+               <p>Sixthly, <hi>Jeremy</hi> complaining of Judgments inflicted on <hi>Iſrael,</hi> ſaith, <hi>Their dance is turned into mourning,</hi> Lam 5. 13.</p>
+               <p>Seventhly, And God who allowes a time for all things, ſave for ſin, allowes a time to dance, <hi>Eccleſ.</hi> 3. 4.</p>
+               <p>Dancing therefore is commendable and lawfull, but thoſe were not ſuch kind of dancing as you uſe, men and women to<g ref="char:EOLhyphen"/>gether, but a man alone, or men with men, women with wo<g ref="char:EOLhyphen"/>men, <hi>Judg.</hi> 20. 21. <hi>The daughters of</hi> Shiloh <hi>no men with them.</hi> Doctor <hi>Willet</hi> mentions ſome kinds or ſorts of dancings from ſcripture, none mixt.</p>
+               <p>Firſt ſpirituall, which proceeded of an extraordinary motion, as <hi>David</hi> danced before the ark, to teſtifie his joy.</p>
+               <p>Secondly civill, uſed in Triumphs, when they met the captains returning from the conqueſt of their enemies, with dancing, thus <hi>Saul</hi> and <hi>David</hi> were met.</p>
+               <p>Thirdly, For honeſt recreation, as the daughters of <hi>Shiloh</hi> u<g ref="char:EOLhyphen"/>ſed to dance at their ſolemne feaſts, <hi>Judg.</hi> 21. 19.</p>
+               <p>Fourthly, wanton and laſcivious, ſuch as <hi>Herodias</hi> before <hi>He<g ref="char:EOLhyphen"/>rod</hi> to pleaſe him, wherewith his amorous and wanton eye was ſo intangled, <hi>Mark</hi> 6. 23.</p>
+               <p>He concludes the two firſt lawfull and commendable the third indifferent and tollerable, the laſt wicked and abominable, al<g ref="char:EOLhyphen"/>though alone. Divines therefore condemn not all dancing, only that which is mixed, men and women dancing together, or im<g ref="char:EOLhyphen"/>modeſt of either apart.</p>
+            </sp>
+            <sp>
+               <speaker>Countr.</speaker>
+               <p>The Lord promiſeth, <hi>Jer.</hi> 31. 13. <hi>That the Virgins</hi>
+                  <pb n="36" facs="tcp:168490:5"/> 
+                  <hi>ſhall rejoyce in the Dance, both young men and old together,</hi> there<g ref="char:EOLhyphen"/>fore mixt dancing is allowed.</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>There is not the leaſt colour for ſuch a concluſion, the place ſhews, that the greatneſle of favours ſhall occaſion ſuch greatneſſe of joy to women, <hi>That the Virgins ſhall rejoyce in the Dance,</hi> and to men, <hi>That young men and old ſhall rejoyce together,</hi> anſwerable to <hi>Exod.</hi> 15. 1. <hi>Moſes</hi> and the men, <hi>verſe</hi> 20. <hi>Miri<g ref="char:EOLhyphen"/>am</hi> and the women, for no mixt kind of dancing can <hi>I</hi> think be found in ſcripture.</p>
+               <p n="2">2. <hi>Chaſſanion</hi> ſaith, The words are an allegoricall promiſe of joy to come, by a Metaphor taken from the Rite uſed in thoſe times in praiſing God.</p>
+            </sp>
+            <sp>
+               <speaker>Schol.</speaker>
+               <p>But Sir, you may remember the Septuagint reads it thus, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, then the Virgins ſhall rejoyce in the Syna<g ref="char:EOLhyphen"/>gogue of young men, and the Elders ſhall rejoice.</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Firſt. but obſerve, it is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> not <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> in the Synagogue, where they met to worſhip God, not in a dancing place.</p>
+               <p>Secondly, And they read it <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> not <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, they ſhall rejoyce, not dance together.</p>
+               <p>Thirdly, The Hebrew word is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> in the dance, I con<g ref="char:EOLhyphen"/>feſſe, what then? it refers to the Virgins only, as both the Hebr. whoſe diſtinction here is <hi>Sakeph-Ka<g ref="char:EOLhyphen"/>ton,</hi> and the Engliſh tranſlation hath it, <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> Hebr. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> Chald. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                     <g ref="char:punc">▪</g>
+                  </note> ſo the Latine of which forthwith.</p>
+               <p>
+                  <hi>Tunc laetabitur caetus Iſraelis (ſolet autem virgo appellari ver.</hi> 4. <hi>&amp; Iſ.</hi> 37. 22) <hi>cum infeſtis vel in tripudijs (quae infeſtis agitari ſolent) Juvenes ſimul ſunt una cum ſenibus.</hi> Then ſhall the congregation of <hi>Iſrael,</hi> (which is uſually called a Virgin, as <hi>v.</hi> 4. and <hi>Iſa.</hi> 37. 22.) when in their Feaſts or Dances (which they uſed at their Feaſts) young men and old men ſhall be to<g ref="char:EOLhyphen"/>gether. Thus it is rendred by the Chaldee Paraphraſe, which in<g ref="char:EOLhyphen"/>terpretation, <hi>R. David Kimchi</hi> repeats alſo, but refutes not. Then here are no virgins dancing, the vulgar Latine, <hi>Tunc laetabitur virgo in choro, juvenes &amp; ſenes ſimul,</hi> Then ſhall the virgin re<g ref="char:EOLhyphen"/>joice in the dance, the young men and old together, where it
+<pb n="37" facs="tcp:168490:5"/> doth apparantly diſtinguiſh the Virgin from the young and old men, which two later he puts together, and the other alludes to the cuſtome anciently of the virgins and women dancing, <hi>Exod.</hi> 15. 20. <hi>Pſal.</hi> 68. 26. and this after the Hebrew, ſo the Engliſh as was ſayd before.</p>
+            </sp>
+            <sp>
+               <speaker>Countr.</speaker>
+               <p>But who were the firſt authors of mixt dancing?</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>
+                  <hi>I</hi> ſuppoſe the firſt Authors are ſcarce to be traced out, although ſome ſay that <hi>Orpheus</hi> and <hi>Muſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>us</hi> were the firſt in<g ref="char:EOLhyphen"/>ventors of it, ſome the Jewes, but it matters not.</p>
+            </sp>
+            <sp>
+               <speaker>Schol.</speaker>
+               <p>Your diſcourſe with my brother, hath put ſome ſcru<g ref="char:EOLhyphen"/>ples into my head, for <hi>I</hi> ever thought dancing a thing indiffe<g ref="char:EOLhyphen"/>rent, beſides <hi>I</hi> have read a learned work of a famous Doctor, who condemns the French Miniſters for condemning dancing, and <hi>I</hi> know many Miniſters that do not diſallow of it.</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>Amongſt Divines there is oft times a difference in judgment about ſome things <hi>E. G.</hi>
+               </p>
+               <p>Firſt, Many who allow of ſome games at cards for recrea<g ref="char:EOLhyphen"/>tion condemn dice, yet there are two men of note who have written in defence of Luſory lots, the one <hi>I</hi> have read clogd with cautions, I think <hi>Dicers</hi> do not obſerve.</p>
+               <p>Secondly, Tis ordinary and common with people to go to Stage playes, and there are Miniſters that approve of doing ſo, others, as Doctor <hi>Renolds,</hi> one of the conference at <hi>Hampton Court,</hi> an Ornament to <hi>Oxford</hi> and <hi>England,</hi> whilſt hee lived, wrote a learned book againſt them in anſwer to Doctor <hi>Gentilis</hi> and before him the ancient Fathers.</p>
+               <p>Thirdly, Suppoſe your Doctor were ſo learned as you em<g ref="char:EOLhyphen"/>blaſon him, will you oppoſe him to a whole conſtellation of brighter ſtars?</p>
+               <p>Fourthly, But let me ſee what your Doctor ſaith for dancing?</p>
+            </sp>
+            <sp>
+               <speaker>Schol.</speaker>
+               <p>
+                  <hi>The French,</hi> ſaith he, <hi>are ſo generally affected to dancing, that were it not ſo much inveighed againſt by their ſtraight-laced Miniſters, it is thought that more of the French Catholicks had been of the reformed Religion, for extreamly are they bent on this ſport, that neither age nor ſickneſs, no nor poverty it ſelf, can make them keep their heells when they hear the Muſick What makes their Miniſter inveigh ſo bitterly againſt dancing, and puniſh it with ſuch ſeverity where it is uſed, I am not able to determine.</hi>
+                  <pb n="38" facs="tcp:168490:6"/> 
+                  <hi>But being it is a recreation which this people are ſo given unto, and ſuch a one as cannot be followed, but in a great deal of company, as before many witneſſes and ſpectators of their actions. I must needs think the Miniſters of the French Church more nice then wiſe if they chuſe rather to deter men from their Congregations by ſo ſtrict a ſtoiciſme, then to indulge any thing unto the jollity, and naturall gaity of the people in matters not offenſive but by accident only.</hi> Thus he.</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>I know what Doctor you mean, I have read his <hi>Coſ<g ref="char:EOLhyphen"/>mography,</hi> and like the book well enough, although I cannot approve of every paſſage, as not of this in the 146 page of the folio Edition. But what do you gather from this paſſage?</p>
+            </sp>
+            <sp>
+               <speaker>Schol.</speaker>
+               <p>That this learned man thinks dancing not offenſive, and that the French Miniſters are to blame in inveighing ſo a<g ref="char:EOLhyphen"/>gainſt it.</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Hee ſaith more for dancing in this paſſage, and in his hiſtory of the Sabboth, then ever I read in all other, but how will you argue from his words to prove thoſe particulars you collect from him.</p>
+            </sp>
+            <sp>
+               <speaker>Schol.</speaker>
+               <p>Firſt, Becauſe the French Nation are ſo naturally given to it.</p>
+               <p>Secondly, Becauſe it is publickly performed, and b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fore ma<g ref="char:EOLhyphen"/>ny witneſſes.</p>
+               <p>Thirdly, Becauſe was this indulged, they might fo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſake Po<g ref="char:EOLhyphen"/>pery.</p>
+               <p>Fourtly, Becauſe a man ſo learned and of great reading, knows not why the Miniſter, of the French Church ſhould ſo inveigh againſt it.</p>
+               <p>Fiftly, Becauſe it is offenſive by accident only.</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>In anſwer to your arguments from that paſſage, I aſſure you that I ſee no weight at all in them to commend dancing, or to condemn the French Miniſters. For</p>
+               <p>Firſt, According to your firſt reaſon, Drunkenneſſe in Saint <hi>Auguſtines</hi> time was to be indulged to the Affricans, ſince to the Germanes, now the Engliſh, becauſe they are much given to it.</p>
+               <p>Secondly, The abominable filthineſſe to <hi>Baal Peor,</hi> and o<g ref="char:EOLhyphen"/>ther heatheniſh abominations, were publickly performed, and
+<pb n="39" facs="tcp:168490:6"/> before many witneſſes: So the Stage-plaies condemned by the Fathers, not therefore lawfull. Beſides, although they are pub<g ref="char:EOLhyphen"/>lickly performed, yet may they occaſion private pollutions, ſuch as <hi>Matth.</hi> 5. 28.</p>
+               <p>Thirdly, Nor is it certain they would forſake popery, was this indulged to them, and if they would, we muſt not do evill, that good may come thereof. <hi>Rom.</hi> 3. 8.</p>
+               <p>Fourthly, His not knowing why they ſhould ſo inveigh a<g ref="char:EOLhyphen"/>gainſt it, ſeemes ſtrange to me, that a man of learning ſhould condemn, before he had read and confuted ſome of their books. That he who acquaints us with their Synods and Councills con<g ref="char:EOLhyphen"/>demning dancing, ſhould ſee in none any cauſe why. He tells us it was condemned in a Councill in <hi>Sens</hi> 1524. at <hi>Paris,</hi> 1559. at <note place="margin">Hiſtor. of Sab. chap. 6. pag. 189.</note> 
+                  <hi>Rhemes and Tours,</hi> 1583. at <hi>Bourges</hi> 1584. and at <hi>Rochell,</hi> 1571, in theſe words, <hi>All congregations ſhould be admoniſhed by their Miniſters, ſeriouſly to reprehend and ſuppreſſe all Dancings, Mum<g ref="char:EOLhyphen"/>meryes, and Interludes, as alſo all dancing Maſters, or thoſe who make any dancing meetings, after they have been oft admoniſhed, to deſiſt, ought to be excommunicated for that contumacy and diſobe<g ref="char:EOLhyphen"/>dience.</hi> I can tell him why <hi>Chaſſanion</hi> (one of them I think) concludes dancing unlawfull for Chriſtians, <hi>From ſcriptures,</hi> Luke 9. 23. <hi>enjoyning us to deny our ſelves and to follow Chriſt,</hi> 
+                  <note place="margin">Book 3. chap. 3<g ref="char:punc">▪</g>
+                  </note> Col 3 5. <hi>To mortifie,</hi> Rom 12. 1. 2. <hi>To offer our bodies ſacrifices,</hi> Epheſ. 4. 5. <hi>To ſhun ſcurrility, or all which may corrupt, as dan<g ref="char:EOLhyphen"/>cing doth, and ſtirring up of luſt.</hi>
+               </p>
+               <p>
+                  <hi>Secondly, From Fathers, as</hi> Origen, Baſil, Auguſtine, Chryſo<g ref="char:EOLhyphen"/>ſtome.</p>
+               <p>
+                  <hi>Thirdly, From Councills.</hi>
+               </p>
+               <p>
+                  <hi>Fourthly, From the Originall, the Gentiles.</hi>
+               </p>
+               <p>
+                  <hi>Fifthly, Heathens condemning them as</hi> Tully <hi>in his Oration,</hi> Pro Muraena, <hi>and in</hi> Philip Saluſt <hi>in</hi> Catelinam, concluding, <hi>What will the Patrons of dancing ſay oppoſing the word of God, the wri<g ref="char:EOLhyphen"/>tings of the Fathers, the judgment of Morall Heathen condemning, let it ſhame chriſtians to be followers of them.</hi>
+               </p>
+               <p>Fifthly, As for his ſaying dancing is offenſive by accident only, if ſo, I ſuppoſe it is to be ſhunned as an appearance of evill, <hi>ſuch being to be avoided</hi> 1 Theſſ. 5. 2.</p>
+               <p>Secondly, I confeſſe ingeniouſly, that one <hi>Auguſtine,</hi> one
+<pb n="40" facs="tcp:168490:7"/> 
+                  <hi>Chryſoſtome,</hi> one <hi>Peter</hi> Martyr, with the many thouſands of ancient and modern Divines and Churches, moves more with me, then a Divine or two, who ſpeak their minds before they mind the matter, and ſuch who mind it much, and ſay little to defend their ſayings.</p>
+               <p>Thirdly, Concerning him who ſo ſeverely taxeth the French Miniſters, let me add.</p>
+               <p>Firſt, That the French Church is very conſiderable, having been much under perſecution, and there being in it ſeven hun<g ref="char:EOLhyphen"/>dred proteſtant Churches, two Miniſters to each Church, and more then a milion of proteſtants, as Cardinall <hi>Bentivoglio,</hi> tell us.</p>
+               <p>Secondly, That this Church hath many able and learned Di<g ref="char:EOLhyphen"/>vines, <hi>Calvin, Beza, Sadeel, Deodate, Mornaeus, Chamierus, &amp;c.</hi> Not to be ſleighted by a private Miniſter.</p>
+               <p>Thirdly, That theſe French Miniſters preaching and writing ſo much againſt dancing, and ſo crying it down as a moſt ſinfull and unchriſtian Paſtime, as himſelf ſaith, He might ſoon ſee and know why they are ſo ſtrict in preaching, and printing againſt it, and puniſhing it where it is found.</p>
+               <p>Fourthly, That if himſelf conſider what he hath written, hee ſhall find that he hath ſhewed cauſe ſufficient to juſtifie their ſo doing, for in his Hyſtory of <hi>Anatolia</hi> page 17. in his folio, ſpeaking againſt Phrygian muſick, it diſpoſing people to laſci<g ref="char:EOLhyphen"/>viouſneſſe, he ſaith; <hi>There are three ſorts of Muſick, the third ſtirreth to laſcivious geſtures, and wanton thoughts, moſt in uſe amongſt this looſe and ungoverned Nation, ſuch as French muſick in our age, a ſort of muſick forbidden by</hi> Ariſtotle <hi>ſave at</hi> Theaters. From hence I conclude,</p>
+               <p>Firſt therefore, There may be juſt cauſe, why ſuch ſtraight la-Miniſters do ſo inveigh againſt it, himſelfe being Judge.</p>
+               <p>Secondly, That there is more evill in it, then by acci<g ref="char:EOLhyphen"/>dent.</p>
+               <p>Thirdly, That himſelf ſees in <hi>Anatolia</hi> matter enough againſt it, although whiles he was in <hi>France,</hi> he did not.</p>
+               <p>Fourthly, There is cauſe why he ſhould forbear ſuch kinds of expreſſion as ſtraitlaced, they being laced in this kinde as him<g ref="char:EOLhyphen"/>ſelfe.</p>
+               <pb n="41" facs="tcp:168490:7"/>
+               <p> Fourthly, Take notice whether popiſh Divines allow of dan<g ref="char:EOLhyphen"/>cing, if not, then it is not dancing which keeps people in the Po<g ref="char:EOLhyphen"/>piſh Religion<g ref="char:punc">▪</g> I will name ſome, 1 <hi>Bellarmine</hi> (the Papiſts Cham<g ref="char:EOLhyphen"/>pion) <note place="margin">
+                     <hi>Obſerve well</hi> Bellarmine, <hi>a Pap<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſt, his ex<g ref="char:EOLhyphen"/>preſſions touch<g ref="char:EOLhyphen"/>ing dancing.</hi>
+                  </note> in a tract of chriſtian Religion upon <hi>Com.</hi> 7. (with them the 6.) ſaith, <hi>All which prepare the way to adultery and fornica<g ref="char:EOLhyphen"/>tion are forbidden, as wanton looks, laſcivious kiſſes &amp;c.</hi> which I ſuppoſe are there.</p>
+               <p>Mr. <hi>Prin</hi> out of ſome Sermons of <hi>Bellarmine,</hi> namely the 6: 3. 19. 20. hath gathered diverſe paſſages; ſome whereof are, <hi>When are there more ſins committed then on holy dayes? when are there more dances? But peradventure it is no evill or a ſmall evill for men to dance with women; yea verily nothing is more pernici<g ref="char:EOLhyphen"/>ous. If ſtrawes can move to the fire and not be burnt, then a young man may dance with women, knoweſt thou the danger of dancing? how many thinkeſt thou have entred Virgins into dances, and retur<g ref="char:EOLhyphen"/>ned harlots? knoweſt thou not what Saint</hi> Ambroſe <hi>ſayth, Shee who is chaſt let her learn her daughter prayers and not dancing. Of dancing I will speak one word, If adultery and fornication be e<g ref="char:EOLhyphen"/>vill I cannot ſee how it is not evill for men to dance with women, ſince it provokes moſt of all thereunto. Hear holy</hi> Job, I have made <note place="margin">Job 31. 1.</note> a covenant with mine eyes, that I would not think of a mayd. <hi>And ſhalt thou go and dance with a mayd, and provoke thy ſelf to luſt by dancing, and yet no danger hang over thy head? To what end doth the wiſe man give this admonition,</hi> Keepe not company with a woman that is a dancer leaſt happily thou periſh in her allurements. <hi>But becauſe if chaffe can come to the fire and not be burnt, then a young man may dance with women, and not burne, wilt thou add to the heat of youth the heate of drinking, and then go and laugh and ſing, and dance with beautifull maydens, and ſhall I ſuspect no harm? But concerning the madneſſe of dancing, hear what the Ancients as well prophane as ſacred have left written.</hi> Tully <hi>did ſo deteſt the filthinneſſe of dances, that he ſayd,</hi> No ſober <note place="margin">Nemo ſobrius ſaltat; <hi>which we may E<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>gliſh no man danceth that is not drunke.</hi>
+                  </note> man almoſt danceth, <hi>Bluſh therefore O chriſtian, thou art over<g ref="char:EOLhyphen"/>come of an Ethnick, and without doubt thou ſhalt be condemned by an Ethnick. Hee by the light of Nature could teach that dancing was not the practiſe of any, but either of drunkards or mad men, and thou, &amp;c. Tell thou us O bleſſed</hi> Ambroſe, <hi>thou moſt reverend old man the light of the chriſtian Church, what thinkeſt thou of dances?</hi>
+                  <pb n="42" facs="tcp:168490:8"/> 
+                  <hi>worthily ſayth he,</hi> From thence we proceed to the injury of the divinity, for what modeſty can there be where they dance ſhreek and make a noiſe together? <hi>Tell thou us O bleſſed</hi> Hierom <hi>what thou deemeſt of Dancing?</hi> Where the Timbrells ſound <hi>ſayth he,</hi> the pipes make a noiſe, the harps chatter, the cymballs ſtrike to<g ref="char:EOLhyphen"/>gether, what fear of God can there be? <hi>Tell thou us O</hi> Chryſo<g ref="char:EOLhyphen"/>ſtome <hi>the Ornament of</hi> Greece, <hi>thy opinion of Dancies,</hi> Where wanton dancing is, there the devill is certainly preſent, the de<g ref="char:EOLhyphen"/>vill danceth in thoſe dances: <hi>Hear the words of</hi> Baſill <hi>the great, a moſt holy man and moſt learned, he deplores this madneſſe, ſaying,</hi> Men and women together entring into common dances, having delivered their ſouls unto the drunken devill, wound one ano<g ref="char:EOLhyphen"/>ther with the pricks of unchaſt affections, <hi>&amp;c.</hi> This and much more he cites out of <hi>Bellarmine,</hi> at the end of his hiſtory of the Biſhops of <hi>Wincheſter.</hi>
+               </p>
+               <p>Secondly, <hi>Nicalaus Cauſin</hi> a French Jeſuit, in his holy Court ſaith as followeth, <hi>Then come the dances, the frisks, capers, ballads, which makes the body diſſolve into corruption, with what a conſci<g ref="char:EOLhyphen"/>ence can a man expect paradiſe living in this manner?</hi> Page 52. <hi>A<g ref="char:EOLhyphen"/>mongſt the breaches of the ſixt commandement</hi> (with them) <hi>hee names dances as attending wantonneſs.</hi> Page 69 <hi>How can you count</hi> ſayth he, <hi>a gadding houſe-wife, a dancing reveller, to be modeſt?</hi> page 107. Hierome ſaith, <hi>The Law of God was not for dancers, drunkards.</hi> Page 109. <hi>But of idle ſongs, dancings, &amp;c. ſuch attra<g ref="char:EOLhyphen"/>ctives are the forerunners of the loſſe of Chaſtity.</hi> page 304 in his <hi>Diary,</hi> which is by it ſelfe, and alſo in the folio, in the head of <hi>Recreations,</hi> he ſayth, As for dancing <hi>&amp;c. They are dangerous Councellours of wiſdome, as ill teachers of modeſty, ſome may be ſanctified in them by miracle, but every day more is loſt in them by weakneſſe, ſeeing our force is weake, not miraculous, we ought by flying from occaſions to ſeeke thoſe effects we cannot find in our owne ſtrength.</hi> See here a French Jeſuite will not indulge dancing into his countrymen.</p>
+               <p>Thirdly, <hi>John De Burgo,</hi> Chancellour of the Univerſity of <hi>Cambridge,</hi> about the later end of <hi>Henry</hi> the ſixth, in a Book called <hi>Pupilla <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>culi</hi> (as your Doctor tells us in his Hyſtory of the Sabbath, page 234.) ſaith, <hi>That they who dance to ſtirr up themſelves or others to carnall luſts, commit a mortall ſin.</hi>
+               </p>
+               <pb n="43" facs="tcp:168490:8"/>
+               <p> Fourthly, <hi>Brugenſis</hi> in <hi>Matth.</hi> 14. 6. ſaith as followeth, ſhee <hi>(Herodias</hi> daughter) danced, <hi>Shee uſed Geſtures as in Dances, ſhee delighted thoſe who were preſent with laſcivious geſtures,</hi> be<g ref="char:EOLhyphen"/>fore them openly, that is, <hi>They all beholding, which could not be done, without a foul ſigne of a whoriſh wantonneſſe: Publick dan<g ref="char:EOLhyphen"/>cing of ſuch a mayd, voluntarily paſſing into the feaſt, this there<g ref="char:EOLhyphen"/>fore did beſeem the daughter of an harlot, there is nothing more for<g ref="char:EOLhyphen"/>cible then the beholding of the dancing of an unchaſt woman, applied to muſicall inſtruments. He, that is</hi> Herod, <hi>did not only ſuffer dan<g ref="char:EOLhyphen"/>cing, but was ſo delighted with the fooliſh and laſcious dancing of the woman dancer,</hi> v. 11. <hi>That the Head of</hi> John Baptiſt <hi>was gi<g ref="char:EOLhyphen"/>ven as a reward of dancing to a mayd, a virgin exceeding all har<g ref="char:EOLhyphen"/>lots in impudency,</hi> Thus he.</p>
+               <p>Fifthly, I have read that it was the ſaying of <hi>Frederick</hi> the third, an Emperour, that he had rather <hi>(Febricitare quam ſal<g ref="char:EOLhyphen"/>tare)</hi> be ſick of a Fever then dance.</p>
+            </sp>
+            <sp>
+               <speaker>Schol.</speaker>
+               <p>But <hi>Francis Sales,</hi> Biſhop of <hi>Geneva,</hi> in his Introdu<g ref="char:EOLhyphen"/>ction to a devout life, allowes of dancing.</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>In that book part 3. Chapter 33. he ſaith, <hi>Dances and balls in their own nature are things indifferent, but as they are or<g ref="char:EOLhyphen"/>dinarily uſed they incline to much to evill, and conſequently are full of danger, They are uſed by night, in darkneſſe and obſcurity, and it is eaſie to ſlide obſcure, and vicious accidents into a ſubject ſo ca<g ref="char:EOLhyphen"/>pable of evill. They watch long in their paſtimes and afterwards loſe the mornings, and by conſequence the opportunity of ſerving God. In a word, it is alwayes folly to change day into night, light into dark<g ref="char:EOLhyphen"/>neſſe, and good works into wantoneſſe, every one ſtriveth who ſhall carry thither moſt vanity, and vanity is ſo great a disppoſition to depraved affections, dangerous and reprehenſible Loves, that all</hi> 
+                  <note place="margin">Getard cum Johnſon <hi>affirm that no ſort of Muſhromes are wholſome food,</hi> p. 1578. <hi>and adviſe ſuch who love ſuch ſtrange meat to beware of lick<g ref="char:EOLhyphen"/>ing h<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ne<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> a<g ref="char:EOLhyphen"/>mong thorns</hi> p. 1584.</note> 
+                  <hi>thoſe miſcheifs are eaſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ly ingendred in Dancings. I ſay of Dances</hi> Philothea, <hi>as Phyſitians ſay of Muſhrooms, the beſt of them are no<g ref="char:EOLhyphen"/>thing worth, yet thou wilt needs eat muſhrooms, be ſure they be wel dreſt, if upon ſome occaſion which thou canſt not well excuſe, thou muſt go to a ball, ſee that thy Dance be well ordered: Bue how muſt it be well ordered? with modeſty, gravity, and modeſt intention: Eat but little and ſeldome of Muſhromes ſay the Phyſitians, for be they never ſo well dreſt, the quantity makes them poyſonous. Dance little and very ſeldome</hi> Philothea, <hi>for otherwiſe thou putteſt thy</hi>
+                  <pb n="44" facs="tcp:168490:9"/> 
+                  <hi>ſelfe in danger to become affectionate to it. Muſhrooms according to</hi> Pliny, <hi>being ſpongy and porous, do eaſily draw infection to them, ſo that being neer Serpents and Toads, they receive Ve<g ref="char:EOLhyphen"/>nome from them: Maskes, Dances, and other night meetings, ordinarily attract the ſins and vices of the time into one place, as quarrells, envy, ſcoff<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ng, and wanton love, and theſe Exerciſes open the pores of the body, ſo they alſo open the heart, by meanes whereof, if any Serpent taking advantage, breath into the eare ſome wanton wordor laſcivious diſcourſe, or if ſome Baſilisk glance an unchaſt look or immodeſt eye, the heart then opened is eaſily ſeized on and poyſoned. O</hi> Philothea, <hi>thoſe impertinent re<g ref="char:EOLhyphen"/>creations are ordinarily dangerous, they diſtract the ſpirit of de<g ref="char:EOLhyphen"/>votion, weaken the force, &amp; make Charity cold, and ſtir'in the ſoul a thouſand evill affections, and therefore they are to be uſed with great diſcretion. But above all they ſay, that after Muſhroomes, we muſt drink wine, and I ſay, that after dancing it is neceſſary to uſe good and holy meditations, to hinder the dangerous impreſſions which the vain pleaſure taken in dancing may have left in our mind. But what meditations? That whilſt thou waſt dancing at</hi> 
+                  <note place="margin">Note.</note> 
+                  <hi>the Maske, many ſoules did burne in hell for ſins committed in dancing or by occaſion of it, that many religious and devout perſons were at that very time in the preſence of God ſinging his prayſes, and contemplating his beauty, Oh how much more happily was that time ſpent then mine? that whilſt thou waſt dancing many Souls departed out of this world in great anguiſh, many thouſands men and women ſuffered great payn in their beds, in hoſpitalls, in the ſtreets, by the ſtone, gout, and burning fever. Alas they have had no reſt, and wilt thou have no compaſſion on them? And think<g ref="char:EOLhyphen"/>eſt thou not that one day thou ſhalt groan as they did, whilst thou didſt dance as thou didſt? That our bleſſed Saviour and the An<g ref="char:EOLhyphen"/>gells behold thee dancing, Oh how did they pitty thee, ſeeing thy heart buſied in theſe trifles, and ſo attentive to this traſh? alas whilſt thou waſt there the time is paſſed away and Death is come neerer. See how he marks thee and calls thee to his dance, in which the groans of thy freinds ſhall be thy muſick, and where thou ſhalt make but one ſtep from life to death. This dance is the true paſtime of mortall men, ſince by it we paſs in a moment of time to eternity of joy or pain. I have ſet thee downe theſe few conſiderations, God</hi>
+                  <pb n="45" facs="tcp:168490:9"/> 
+                  <hi>will ſuggest better to thee, if thou fear him.</hi> Thus he who with his thunderbolts hath confounded all his cautions which are ſo far alſo from being obſerved by our Dancers, that not any one of them, I fear, drink one drop of his wine, his meditations, but rather think of their own and others vanity and folly with de<g ref="char:EOLhyphen"/>light and deſire of more.</p>
+            </sp>
+            <sp>
+               <speaker>Schol.</speaker>
+               <p>In Chap. 34. he is more punctuall for dancing, telling us of ſome Saints who danced.</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>The next Chapter he doth erroniouſly affirm, that com<g ref="char:EOLhyphen"/>pliance makes indifferent things good, dangerous, tollerable, and even taketh away the miſcheif from theſe things which are in ſome ſort evill. 1. But firſt this is vain, <hi>For we may not do evill that good may come thereof,</hi> nor will compliance make drunken<g ref="char:EOLhyphen"/>neſs no ſin, or not ſo dangerous. 2. His Saints as <hi>Ignatius, Loiola,</hi> the father of the Jeſuits and ſuch like are not much to be regar<g ref="char:EOLhyphen"/>ded. 3. Were they ſuch indeed as he affirmes they were, yet hee tells us that their devotion was ſuch that it grew amongſt vani<g ref="char:EOLhyphen"/>ties, that their fires grew bigger by ſuch windes, whereas little ones (ſuch as our dancers have) are ſoon blowne out. And ſo he affirmes, with <hi>Nicholas Cauſin,</hi> it was by miracle, they were not prejudiced therby, which is no encouragement to any of ours, he who well weighs him, will think him a poor patron for dancing.</p>
+            </sp>
+            <sp>
+               <speaker>Schol.</speaker>
+               <p>You did ſpeak of Churches and Fathers condemning dancing, name ſome.</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>I wil begin with the <hi>Waldenſes</hi> and <hi>Albigenſes,</hi> (Luthers and our forerunners) a people who ſuffered for Chriſt a bitter perſecution as ever did any; they in their Doctrine, ſpeaking of <note place="margin">Sam. Leonard. Hiſt of Albig. book 2 chap. 9.</note> dancing ſay, <hi>A dance is the devils proceſſion, and he who entreth in<g ref="char:EOLhyphen"/>to a dance, entreth into his poſſeſſion, the devil is the guide, the middle and the and of the dance, ſo many paces as a man makes in dancing, ſo many paces he makes to go to hell,</hi> in their judgment it is a ſin damnable with a witneſſe.</p>
+               <p>As for the ancient Fathers, I ſhall name ſome</p>
+               <p>Firſt. Chryſoſtome <hi>Where there is laſcivious dancing, the devill</hi> 
+                  <note place="margin">In M<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tth. 1<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Hom. 49.</note> 
+                  <hi>is certainly preſent. God hath not given us feete for dancing, but to walke modeſtly, not to leape impudently like camels, but to ſtand in the Conſort of Angells, in thoſe dances the devill danceth, in theſe men are deceived by the Miniſtry of Devills.</hi>
+                  <pb n="46" facs="tcp:168490:10"/> 
+                  <hi>Here he condemns mixt, or immixt if immodeſt elſe where- See how modeſtly ſaith hee they behaved themſelves at Weddings, hear all</hi> 
+                  <note place="margin">
+                     <hi>In</hi> Gen. 29. Hom. 56.</note> 
+                  <hi>you who do ſo much admire Satanicall pompes, were there then any pipes? were there then any Cymballs? were there then any dive<g ref="char:EOLhyphen"/>liſh dancings? Tel me why at the beginning doſt thou bring into thy houſe ſo great an hurt? and doſt call thoſe who are converſant in Stages, and with much coſt doſt hurt the Virgins continency, and make the young men more impudent? it is difficult enough for that Age to bear moderately the Tempeſt of Affections, without ſuch provocations, but when theſe are added, as well what are ſeen and what are heard, the fire is more kindled, and the furnace of concu<g ref="char:EOLhyphen"/>piſcence is more inflamed, how ſhall not the Soule of youth periſh? from hence all things are corrupted, becauſe the chaſtity of them are met together is hurt, and often the firſt day the young man ſee<g ref="char:EOLhyphen"/>ing with incontinent eyes, hee is wounded in Sovl with the devils dart, and the Damſel by thoſe things ſhee heareth and ſeeth, is made captive.</hi> This Father hath many paſſages againſt Dan<g ref="char:EOLhyphen"/>cing.</p>
+               <p>Secondly, <hi>Auguſtine</hi> ſaith, <hi>Obſerve the Sabbath day not in a carnall and fleſhly manner, nor in Jewiſh delights, who abuſe their</hi> 
+                  <note place="margin">
+                     <hi>In</hi> Pſal<g ref="char:punc">▪</g> 32. Conc. prima.</note> 
+                  <hi>leaſure to lewdneſſe and wickedneſſe, for doubtleſſe it were better they digged all day then danced all day.</hi> Where it is evident, that whether it was on the Sabbath or any other day, hee counted dancing a wicked delight and recreation, elſewhere more fully. <hi>The Jewes</hi> ſaith he, <hi>keep the Sabboth with Luxury and Idleneſſe, whereas God commandeth to obſerve the Sabboth, they ſpend it in that God hath forbidden, for it is better to plow then to dance, they</hi> 
+                  <note place="margin">In Pſal. 91. <hi>not far from ihe beginning. In</hi> Matth. 14.</note> 
+                  <hi>rest from good workts, and are taken up in that which is trifling and fooliſh.</hi> Where it is plain, that he reckons dancing a thing forbidden of God at any time, although worſe on that day as is drunkenneſſe or whoredome worſe then, although evill at all things.</p>
+               <p>Thirdly, <hi>Hie<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ome</hi> ſpeaking of <hi>Herodias</hi> daughter asking <hi>John Baptiſts head,</hi> ſayth, <hi>
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>or the noble work of dancing, ſhee demanded the worthy price of blood.</hi>
+               </p>
+               <p>Fourthly, <hi>Tertullian</hi> hath a paſſage to this purpoſe, <note n="*" place="margin">Nam etſi qui modeſte ſpe<g ref="char:EOLhyphen"/>ctaculis (&amp; ſic de t<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ipu<g ref="char:EOLhyphen"/>dijs) f<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uitur non tamen immobilis eſt animi ſine ta<g ref="char:EOLhyphen"/>cita ſpiritus paſſioue <hi>De Spectat. Tit. de mun<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>re</hi>
+                  </note> as if none are ſo dead but dancing will drumm up, but to what pur<g ref="char:EOLhyphen"/>poſe do I name ſome Fathers, whereas they were generally a<g ref="char:EOLhyphen"/>gainſt all ſuch vanities.</p>
+               <pb n="47" facs="tcp:168490:10"/>
+            </sp>
+            <sp>
+               <speaker>Schol.</speaker>
+               <p>True it is, the ancient Fathers were bitter againſt dan<g ref="char:EOLhyphen"/>cing, <note place="margin">Hiſto. of Sabb. part 2. p. 87.</note> but as the learned Doctor I before named, anſwereth. The Fathers ſpake so much againſt dancing, in reference to the thing or unto the time.</p>
+               <p>Firſt in reference to the thing, <hi>They danced naked,</hi> page 85. <hi>They uſed laſcivious Geſtures,</hi> ând to prove it, he quotes Saint <hi>Ambroſe</hi> affirming, <hi>That the women in the ſight of wanton and laſcivious youths, danced immodeſt dances, toſſing about their haire, drawing aſide their coates, that ſo they may lay open what ſhould not be ſeene, their garments open, their armes quite bare, clapping their hands, capring with their feete, chanting obſoene filthy ſongs, ſtirring up the luſts of ungoverned men by thoſe un<g ref="char:EOLhyphen"/>comely motions, wanton looks, and ſhamefull ſpectacles,</hi> page 86. and 88. he quotes <hi>Ambroſe, reſtraining all toying, light, and beaſtly kind of dancing,</hi> concluding thence, In caſe the dances be not toying, light, nor beaſtly, the Fathers did not intend them.</p>
+               <p>Secondly, In reference to the time, <hi>Men preferring their paſtimes b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fore their prayers:</hi> For this end he quotes <hi>Auguſtine</hi> 
+                  <note place="margin">Part 2. pag. 107.</note> 
+                  <hi>in Pſalm.</hi> 32. better men did dig all the day then dance all day on the Sabbath. He mentions alſo, a councill held at <hi>Petricow</hi> in <hi>Poland, forbidding dancing on the Lords day, eſpecially at that inſtant men ſhould be at Church, which</hi> ſaith he, <hi>cleerly ſhewes, they prohibited dancing no otherwiſe, then they were a meanes to</hi> 
+                  <note place="margin">Part 2 p. 169.</note> 
+                  <hi>keep men from Church.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>I have read your Authors books, and would have you obſerve.</p>
+               <p>Firſt, That he ſaith, <hi>Probably as dancings were in former times they might not be ſuffered,</hi> pag. 85.</p>
+               <p>Secondly, <hi>Nay which is more, it had been an infinite ſcandall to the church if they had permitted it,</hi> pag. 85.</p>
+               <p>Thirdly, <hi>For there was much impurity and immodeſty, ſuch as was not to be beheld by a chriſtian eye,</hi> Becauſe</p>
+               <p>
+                  <hi>Firſt, They uſed laſcivious Geſtures,</hi> and are ours free from them?</p>
+               <p>
+                  <hi>Secondly, They danced naked,</hi> for which <hi>Ambroſe</hi> is named, whereas in that place of <hi>Ambroſe</hi> there is no ſuch thing, the neereſt words to ſuch a ſenſe are, <hi>drawing aſide their coates,</hi>
+                  <pb n="48" facs="tcp:168490:11"/> therefore they were cloathed, and do not many of our Dancers toſſe about their hair, and behave themſelves according as Saint <hi>Ambroſe</hi> deſcribes them?</p>
+               <p>Fourthly, that himſelf affirmeth, <hi>page</hi> 86. <hi>That only common women, or ſuch looſe trulls as</hi> Meſſalina, <hi>ſo danced.</hi> Which <hi>Meſſa<g ref="char:EOLhyphen"/>lina</hi> (as Maſter <hi>Greenhill</hi> on <hi>Ezekiell)</hi> gloried that in four and <note place="margin">On chap. 16. page 231.</note> twenty houres, ſhe had entertained five and twenty men.</p>
+               <p>Fifthly, And further ſaith, page 87. <hi>This made the Fathers inveigh generally againſt all dancings, againſt the ſport it ſelfe.</hi> Thus I think himſelf hath anſwered this objection.</p>
+               <p>Moreover, wheras he infers from theſe words, <hi>Light and beaſt<g ref="char:EOLhyphen"/>ly dancing, therefore thoſe which are not ſo, are not to be repr<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hen<g ref="char:EOLhyphen"/>ded.</hi> This is not rightly concluded, but dancing hath thoſe Epi<g ref="char:EOLhyphen"/>thetes given to diſgrace it: As if a man ſhould ſay abominable filthy, ſwiniſh drunkenneſſe, theſe are Epithetes to diſgrace, not to prove there is a drunkenneſſe which is lawfull. Or as the A<g ref="char:EOLhyphen"/>poſtle Saint <hi>Peter,</hi> 1 <hi>Pet.</hi> 4. 3. <hi>Abominable idolatries,</hi> ſhewes all to be ſuch, not any to be lawfull idolatries.</p>
+               <p>Laſtly, Concerning Saint <hi>Auguſtines digging or dancing all the Sabbath day.</hi> The words will not bear ſuch a concluſion, as if it was forbidden only as keeping men from Church, for</p>
+               <p>Firſt, I hope neither were lawfull at that time, if both were lawfull at other.</p>
+               <p>Secondly, The words therefore muſt carry this ſenſe.</p>
+               <p>Firſt, Either that the one the worke is lawfull, the other the ſport is unlawfull, ſo dancing is unlawfull.</p>
+               <p>Secondly, Or if both are lawfull, then that it is more lawfull <note place="margin">
+                     <hi>Anſwer to</hi> Burton c. 4. p. 80. C. 3. p. 112.</note> to labour on the Lords day, then to uſe lawfull ſports on the Lords day, ſo ſports on the Lords day are unlawfull againſt your Doctors opinion in another book.</p>
+            </sp>
+            <sp>
+               <speaker>Schol.</speaker>
+               <p>But Fathers were particular men, have any Councill forbidden dancing as unlawfull?</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Many as of <hi>Laodicea, Ilardenſe, Toledo &amp;c.</hi> your Do<g ref="char:EOLhyphen"/>ctor mentions diverſe. page 185. and from thoſe words added in ſome, <hi>Eſpecially at that inſtant when men ſhould be at Church,</hi> he inferreth, <hi>Which cleerly ſheweth they prohibited dancing, and the other paſtimes there recited, no otherwiſe then as they were a means to keep men from the Church.</hi> Should a Law forbid drun<g ref="char:EOLhyphen"/>kenneſſe,
+<pb n="49" facs="tcp:168490:11"/> eſpecially when people ſhould be at Church, doth that Law forbid drunkenneſs no otherwiſe then as a means to keep men from Church? you are able to ſee the weakneſſe of ſuch concluſi<g ref="char:EOLhyphen"/>ons, and that ſuch eſpecially are aggravations of crimes, which are faults at all times.</p>
+            </sp>
+            <sp>
+               <speaker>Schol.</speaker>
+               <p>But theſe are ancient, what men in the preſent and prote<g ref="char:EOLhyphen"/>ſtant Church of note condemn dancing, for I do not much regard every one.</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Firſt, <hi>Peter Martyr,</hi> Once profeſſor at <hi>Oxford,</hi> an emi<g ref="char:EOLhyphen"/>nent man, in his common places, divides dancing into four kinds.</p>
+               <p>Firſt, <hi>Pyrrhicam, which was to dance in Armour and Souldiers weapons, invented by</hi> Pyrrhus, <hi>this ſouldierlike in commpleat har<g ref="char:EOLhyphen"/>neſſe he diſalloweth not.</hi>
+               </p>
+               <p>Secondly, <hi>Laſcivious, which</hi> ſaith he <hi>all men condemn.</hi>
+               </p>
+               <p>Thirdly, <hi>In expreſſion of joy which is not forbidden, becauſe nim<g ref="char:EOLhyphen"/>bleneſſe of body is the gift of God, and if art be added to it, that the body may be moved in order. and fit number and with a grace, it is not to be reprehended ſo it be in ſeaſon, for as it is lawfull to ſing, and by ſinging to praiſe God, ſo may we teſtifie the joy of the mind by mode<g ref="char:EOLhyphen"/>rate dancing,</hi> Exod. 15. 20 1 Sam. 18. 7. 2 Sam. 6. 16.</p>
+               <p>Fourthly, <hi>Mixt, This</hi> ſayth he <hi>ought not to be, becauſe theſe are nouriſhers and provocations of wantonneſſe and luſts. Neither</hi> Miriam <hi>nor the women, nor</hi> David <hi>danced ſo, but men with men, women with women, and becauſe they who love the Lord with all their Soul, and with all their ſtrength, ought not only to keep his commandements, but are to cut off all wayes whereby the keeping of them is hindred, our dancings are evident occaſions of tranſgreſſing Gods Law, they are ſnares and ſcandalls, not only to the dancers, but alſo to the ſpectators, for they provoke and ſtir up the heart of men, otherwiſe bad enough, and that which is to be repreſſed with great ſtudy and induſtry, is ſtirred up by the allurement of dancing.</hi> He cites ſome Councills, as that at <hi>Laodicea, That Chriſtians ſhould not dance at marriages, but that they ſhould dine and ſup gravely and modeſtly, and give God thanks for the benefits of Marriage.</hi> In the ſame Councill, <hi>Clergy men may be preſent at Marriages, but when the ſingers and Minſtrells come who ſerve to dancing, let them ariſe and be gone, leaſt by their pre<g ref="char:EOLhyphen"/>ſence they ſeem to approve of that wantoneſſe.</hi> And the Councill of <hi>I<g ref="char:EOLhyphen"/>lerdenſe, We decree that chriſtians do not dance at marriages,</hi> and he quotes diverſe heathen men alſo againſt dancing</p>
+               <pb n="50" facs="tcp:168490:12"/>
+               <p> Secondly, Doctor <hi>Ames</hi> Profeſſor at <hi>Franekar,</hi> in his caſes of Conſcience, ſaith, <hi>Mixt dancings are wholy to be condemned.</hi>
+               </p>
+               <p>
+                  <hi>Firſt, Becauſe they do expreſſe a certain Arrogancy and madneſs of the mind, for then are people moſt diſpoſed to them when they are almoſt mad with drunkeneſs or ſome violent affection,</hi> Exod 32. 6. Mar. 6. 2.</p>
+               <p>
+                  <hi>Secondly, Becauſe they openly repreſent with their Geſtures thoſe things, which in the order of Nature have ſhamefullneſſe joyned.</hi>
+               </p>
+               <p>
+                  <hi>Thirdly, becauſe they are Snares and Offences not only to the dan<g ref="char:EOLhyphen"/>cers, but others the spectators alſo, for they ſtir up wantonneſſe and in<g ref="char:EOLhyphen"/>flame the hearts of men to luſt, which is carried thither with ſuch fa<g ref="char:EOLhyphen"/>cility, that by all means it is to be ſuppreſſed.</hi>
+               </p>
+               <p>
+                  <hi>Fourthly, Becauſe in them there is a certain diſgracing of that dignity which ought to be preſerved in all christians, and therefore a<g ref="char:EOLhyphen"/>mongſt the moſt ſober Gentiles, ſuch were uſed only by hirelings, har<g ref="char:EOLhyphen"/>lots and ſinging wenches.</hi>
+               </p>
+               <p>Then he anſwereth four cautions uſed to juſtifie dancing.</p>
+               <p>Firſt, If dancing be uſed moderately and not too often.</p>
+               <p>
+                  <hi>Anſw. Meaſure is ſought in vain, in inſolency, in madneſſe, and ſuch like, becauſe they are in exceſſe.</hi>
+               </p>
+               <p>Secondly, It is meerely for recreation or delight, not from lightneſſe and luſt.</p>
+               <p>
+                  <hi>Anſ. We are to conſider in our conſciences, not only the end &amp; inten<g ref="char:EOLhyphen"/>tion of the doer, but alſo the end of the worke, and what is wont to flow from it, especially when the thing it ſelfe is no ways neceſſary.</hi>
+               </p>
+               <p>Thirdly, If uſed in good and honeſt company.</p>
+               <p>
+                  <hi>Anſw. Firſt we are not to give ſcandall to good and honeſt people.</hi>
+               </p>
+               <p>
+                  <hi>Secondly, If they be ſo qualified, that they are without danger of offence, they are worthy ſo much more Reverence which forbids to uſe any light and witleſſe toyes before them.</hi>
+               </p>
+               <p>Fourthly, If they be uſed to procure good will between young men and maids, and ſo of making marriage between them.</p>
+               <p>
+                  <hi>Anſw. Every way of making marriages is not to be allowed, but only ſuch as are honeſt wayes of unpolluted marriages.</hi>
+               </p>
+               <p>Thirdly, Your Doctor in his Geography of the Alpes, ſaith, that <hi>Dancing by no means is tollerated at</hi> Geneva, and in his hiſtory of the Sabboth part 2. page 188. he ſheweth, that <hi>Calvin</hi> in an E<g ref="char:EOLhyphen"/>piſtle to <hi>Farell</hi> ſaith, <hi>Corneus</hi> and <hi>Perinus with one</hi> Heinrichus <hi>one of the Elders of the church, a Syndike, and ſome other of their friends being merry at an invitation fell into dancing.</hi> Calvin <hi>called them be<g ref="char:EOLhyphen"/>fore</hi>
+                  <pb n="51" facs="tcp:168490:12"/> 
+                  <hi>him to the conſiſtory, except</hi> Corneus <hi>&amp;</hi> Perinus, <hi>being interroga<g ref="char:EOLhyphen"/>ted they denied, he puts them to their oathes about it, they confeſſed their dancing, and in the houſe of widow</hi> Balthaſats, <hi>he cenſures, the Syndick is displaced, the Elder turned out of office,</hi> Perin <hi>and his wife clapt into pri<g ref="char:EOLhyphen"/>ſon, the reſt put to ſhame,</hi> anno 1546.</p>
+               <p>4ly. Calvin <hi>in</hi> Job 21 13. ſaith, <hi>That mixt dancing of men and women to<g ref="char:EOLhyphen"/>gether, are nothing elſe then panderſhips and provocations to whoredome.</hi>
+               </p>
+               <p>Fifthly, A certain writer records the ſad effects of bad dancing (al<g ref="char:EOLhyphen"/>though not mixt) mentioned in Scripture.</p>
+               <p n="1">1. Exod 32. 6. <hi>They roſe up to play, by which ſaith he, is underſtood their</hi> dancing, ſinging and leaping before the calfe, <hi>as appeareth by the noiſe which was made, deſcribed by</hi> Moſes and Joſhua, <hi>before they came to the calf, theſe who danced did run to their own ruine and ſlaughter.</hi>
+               </p>
+               <p n="2">2. Matth. 14. Mar. 6. Herodias <hi>her dancing is much condemned,</hi>
+               </p>
+               <p n="1">1. <hi>Becauſe it was not for good, and nothing tending to the glory of God, or good of others.</hi>
+               </p>
+               <p n="2">2. <hi>Becauſe of its ſad effects, it doth for the moſt part corrupt the chaſt<g ref="char:EOLhyphen"/>eſt, and adds fewell to the fire of luſt, both in the dancers and Spectators, few can depart from ſuch exerciſes, but more prone and ready to violate the Laws of continency.</hi>
+               </p>
+               <p n="3">3. <hi>Becauſe of the ſad and deplorable end, as in the midſt of ſuch laugh<g ref="char:EOLhyphen"/>ter the heart is ſad, ſo the end of ſuch mirth is mourning to themſelves or to others.</hi>
+               </p>
+               <p n="1">1. <hi>To others, The wanton dancer could not be recompenced but with</hi> Johns <hi>death,</hi> His head ſaith <hi>Chryſoſtome,</hi> is the reward of the wanton dancer.</p>
+               <p n="2">2. <hi>To themſelves<g ref="char:punc">▪</g> this dancing</hi> Herodias <hi>being to paſſe a river which was frozen over, it ſo pleaſed the Divine providence, that the ice brake, and ſwallowed up her whole body to the head, and ſo that body which did dance ſo wantonly on earth, did dance miſerably in the waters, and by the Juſtice of God ſhe loſt her own head (being beheaded by the meeting of the ice) that was rewarded with the head of the Baptiſt, in which judgement we may read the ſin, ſo that as</hi> Aelian <hi>reports of the puffers that being de<g ref="char:EOLhyphen"/>ceived with the pipes and dancing of the fiſhers, they are eaſily caught, ſo the fiſher of ſouls the devill, draws many into his nets by this deceit, this being the bait which hides his hook.</hi> ſaith my author.</p>
+               <p>Sixthly, Biſhop <hi>Babington</hi> upon the ſeventh Commandement, ſaith, <hi>Dancing is in the number of vain paſtimes, an allurement unto uncleaneſſe, as much experience hath too well proved. The ſcriptures check it, the Fa<g ref="char:EOLhyphen"/>thers</hi>
+                  <pb n="52" facs="tcp:168490:13"/> 
+                  <hi>miſlike it, Councills have condemned it, and the proofes of Gods judgments upon it, bid us beware; he quotes Fathers, and tells us of a ſad judgment</hi> 1505. <hi>in</hi> Colbeck <hi>in</hi> Germany, <hi>That certain light perſons hopping and dancing in the Church yard of Saint</hi> Magnus, <hi>being by the Miniſter admoniſhed to ceaſe, and not ceaſing, did for along time, not a<g ref="char:EOLhyphen"/>ble to ſtay, run round about, and at laſt fell all down dead.</hi>
+               </p>
+               <p>Seventhly, Mr. <hi>Perkins</hi> upon the ſeventh Commandement amongſt other things forbidden, <hi>be reckons laſcivious dancing of man and wo<g ref="char:EOLhyphen"/>man together,</hi> and in his treatiſe of conſcience chap. 3: <hi>ſpeaking of re<g ref="char:EOLhyphen"/>creations to be neglected, hee inſtanceth in dancing commonly uſed in theſe dayes, in which men and women, young men and maids all mixed to<g ref="char:EOLhyphen"/>gether dance to the ſound of the inſtrument or voice in time and meaſure, with many wanton geſtures, this exerciſe canot be numbr'd among things indifferent, for experience ſheweth that it had been uſually either a fruit or a follower of great wickedneſs, as idolatry, fornication, drunkenneſſe. Hereupon one compareth it to a circle, whoſe center was the Devill, if we muſt give account of every idle word, then alſo of every idle geſture and pace, and what account can be given of theſe paces backward and for<g ref="char:EOLhyphen"/>ward, of cap<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ings, jumps, gamholls, turnings with many other frisks of lightneſſe and vanity, more becoming Goats and apes, of whom they are commonly uſed, then men, &amp;c.</hi>
+               </p>
+               <p>Eighthly, Mr. <hi>Lake</hi> in his Chriſtian paſtours proofe of his pariſho<g ref="char:EOLhyphen"/>ners faith, pag. 260 ſaith, <hi>Dancing is the bane of faith, religion and good manners, in all that ſo uſe, it as either the high ſhoe in the barne, or the counterfeit pump in the dancing School do, the great uncleaneſſe where<g ref="char:EOLhyphen"/>of heaven and earth do loath and ſpeak againſt, for the ſcriptures not on<g ref="char:EOLhyphen"/>ly divine but humane, and thoſe Ethnical as well as Eccleſiaſticall have reproved and condemned it.</hi> Calv. <hi>on</hi> Job 21. 11. ſaith, <hi>this ſprung not up firſt in our days, being of ſuch antiquity, Satan ſeeking therby as by nothing fitter to keep men in fleſhly delights, to choak the ſpirituall, comparing the madneſſe of dancers to gadding of beaſts, as ſcared out of their wits, and derides them for this (which a far off a man would think) that they caſt themſelves in aire as if they would skip out of themſelves ſo great pains) doth luſt in the preſence and com<g ref="char:EOLhyphen"/>pany of a dancing trull, make the country</hi> Springhal <hi>to bruiſe his bo<g ref="char:EOLhyphen"/>dy and defile his ſoul, with what fathers Eccleſiaſticall have not in their ſermons made bitter invectives againſt it?</hi> Ignat. Ambr. &amp;c. <hi>the exactneſs of skill in dancing tendeth either to pride or lechery or both, the two great ſtains of a chriſtian profeſſed.</hi> Theophylact, <hi>when the younker thinks he</hi>
+                  <pb n="53" facs="tcp:168490:13"/> 
+                  <hi>hath a maid by the hand he cloſeth hand with the devil in the ſhape of the maid whom he makes his ſubſtitute, dancing is a kind of madneſs; then he calls the fidler the devils baudy factor, the bellows of Satan, ſtirring to blow up the coals of luſt on each ſide, &amp; yet the miſerable wretch ſeeth not that as his eye cannot go undefiled in his own luſt, ſo beſides his own ſin he engageth himſelf as a band and abettor in all the ſin that is through his inſtrument either wrought in heart preſently or after upon that entrance concluded upon or committed between parties, or even at the cart or plow ſide by his diſciples thought upon or whiſtled, as wee ſhal hear the feilds, &amp; ſtreets to reſound of their dances, but never a whit of</hi> Davids <hi>Pſalms.</hi> thus he. <hi>Ninthly,</hi> Mr, Trap on Marke. 6. 22. <hi>She danced with immodeſt geſticulations and tripping on the toe, wherwith the old fornicator was ſo inflamed that he ſwore ſhe ſhould have any thing of him, &amp; on</hi> Matth. 14. 6 <hi>he ſaith, ſo as</hi> Robert <hi>Duke of</hi> Normandy <hi>paſſed through</hi> Falaiſe, <hi>he be<g ref="char:EOLhyphen"/>held among a company of young maids dancing, one</hi> Arlet <hi>a skinners daughter, whoſe nimbleneſs in her dance ſo inamourd the Duke that hee took her for his concubine, ſuch &amp; no better commonly are the effects of mixt dancing, which made</hi> Chryſoſt. <hi>ſay, where dancing is there the De<g ref="char:EOLhyphen"/>vil is, and another ancient calleth dancing a circle, whoſe center is the devill blowing up the fire of concupiſcence in the hearts of the actors, and ſpectators,</hi> Auguſtine <hi>ſaith, that every caper in the dance is a leap into a deep jakes, no ſober man doth dance ſaith</hi> Cicero, thus he.</p>
+               <p>Thus I have ſhewed you Divines ancient and modern, proteſtant and papiſt, Epiſcopall and presbyterian condemned dancing as unlawfull.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>Some old melancholick men would abridge us young men of lawfull liberty themſelves being paſt it.</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Truly freind I do not mention theſe paſſages nor thoſe which follow out of a ſtoicall melancholick humour. 1 I being naturally cheerfull. 2. Nor am I an enemy to muſick, I love it, I have had ſome little skill in it, and have delight in muſick, might I hear it from ſober perſons.</p>
+               <p n="3">3 Nor do I diſſwade to abridge you or any of the leaſt lawfull li<g ref="char:EOLhyphen"/>berty; for could I be ſatisfied of the lawfullneſſe of dancing, I would diſwade no longer.</p>
+               <p>But the reaſons of this my diſcourſe with you being one of my charge, are</p>
+               <p n="1">1. To free my own ſoul <hi>Ezek.</hi> 3. 17. 18. for although I deſire to err with no one or many, yet cannot but judge with ſuch &amp; ſo many who have diſſwaded from this Particular upon ſuch grounds.</p>
+               <p n="2">2. And that in recreations</p>
+               <pb n="54" facs="tcp:168490:14"/>
+               <p> Firſt, you may not give your ſelves wholy t<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſports and delights.</p>
+               <p>Secondly, you carefully look that your recreations agree to time, place and perſon.</p>
+               <p>Thirdly, You may not delight in unſeemly and unclean words or a<g ref="char:EOLhyphen"/>ctions which bring obſcene ſcurrility.</p>
+               <p>Fourthly, And that you may be fully ſatisfied in your conſciences of the lawfullneſſe of ſuch recreations which you uſe, ſince he who ſins a<g ref="char:EOLhyphen"/>gainſt conſcience, ſinneth with a witneſs within.</p>
+               <p>Fifthly, And as for dancing that you may ſee the Fathers unani<g ref="char:EOLhyphen"/>mouſly, Divines Epiſcopall, presbyterian, and popiſh, whole Churches (as of the <hi>French, Geneva, Waldenſes)</hi> many Councills and Synods, of which what one are for it? condemn it.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>But I ſee no hurt in it, I think it is good.</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Firſt, So ſay many, for other vicious things they delight in, perhaps you ſee no hurt in, but think evill thoughts, idle words, and ſcurrilous to be good, accounting ſuch to be merry talke.</p>
+               <p>Secondly, Our thinking proves not things to be lawfull or unlawfull, but when we think as we ought or ought not.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>We love not to be abridged for our recreations.</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>
+                  <hi>Adam</hi> had trees enough beſides the forbidden fruit, ſo have people of recreations.</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>But none will ſatisfie men ſo well as dancing.</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Then dance the dance of thoſe heathen who danced commen<g ref="char:EOLhyphen"/>dably thus.</p>
+               <p>Firſt. The old men began ſinging out their valorous actions they had done for their country, to ſtir up others to do the like.</p>
+               <p>Secondly, Then the young men following, anſwered they would be ſuch as the other had been.</p>
+               <p>Thirdly, then followed the children, promiſing to imitate both.</p>
+               <p>Secondly, Or if you will dance, becauſe it is ſo often mentioned in Scripture, then dance as they did.</p>
+               <p>Firſt, their dancing was not mixt, but men or women by themſelves.</p>
+               <p>Secondly, Theirs was not accompanied with amorous ſongs, but pſalmes of praiſe.</p>
+               <p>Thirdly, Theirs was occaſioned by Spirituall joy.</p>
+               <p>Fourthly, theirs was,
+<list>
+                     <item>Firſt to praiſe and glorifie God.</item>
+                     <item>Secondly, or for civill recreation only, each ſort apart, if any ſuch can be found in Scripture, for that in the laſt of <hi>Judges</hi> is mentioned but not commended.</item>
+                  </list>
+               </p>
+               <pb n="55" facs="tcp:168490:14"/>
+               <p> Dance as <hi>David</hi> did, who then will blame you? what good man, if lame will not endeavour to joyn with you? it is the mixt dancing men and women dance together with wanton geſtures, and the ſingle wan<g ref="char:EOLhyphen"/>ton dancing, which is condemned</p>
+            </sp>
+            <sp>
+               <speaker>Count.</speaker>
+               <p>But why ſhould theſe be condemned?</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>1 have you not heard ſufficiently why? 2, They are juſtly con<g ref="char:EOLhyphen"/>demned. 1. Becauſe they have been the fruits and followers of other ſins. 2<g ref="char:punc">▪</g> Becauſe they are accounted as bellows of luſt, as cauſes of much evill. 3. Becauſe they are of evill report. 4. Becauſe at the beſt, they have an appearance of evill, therefore to be ſhunned 1 <hi>Theſ.</hi> 5. 22<g ref="char:punc">▪</g> 5. Becauſe they encourage a ſort of men who are 1. Vicious, for although they have ſongs which are civill and perhaps religious, as if they had thoughts of heaven, yet at the wiſh of ſome to vex others preſent, or to ſhew their own ſuperfluity of naughtineſs, they have ſongs to ſing, as if they were before <hi>Priapus</hi> or <hi>Baal Peor,</hi> ſuch as if the devil was the inditer of them, too vile for any chaſt ear. 2. Unprofitable. There is great difference between laudable Muſitians who delight with voice, and inſtrument, yea who teach one or both in a modeſt manner, and theſe whoſe carriage for the moſt part, is (if not wholly) to corrupt youth 6. Becauſe wantonneſs is condemned in ſcripture, 1 <hi>As a worke of darkneſs,</hi> Rom. 13. 13. 2, <hi>As a worke of the fleſh.</hi> Gal. 5. 19. 3. <hi>As a work of an unregenerate man,</hi> Epheſ. 4. 19. 4. <hi>Hindring the putting on of Chriſt,</hi> Rom 13. 13. 5. <hi>And ſhunned by converted chriſtians,</hi> 1 Pet. 4. 3. This wantoneſs is often forbidden in ſcripture, in Greek it is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> which is compounped of α and <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, which <hi>Selge,</hi> they ſay was a city between <hi>Galatia</hi> and <hi>Cappadocia,</hi> whoſe inhabitants ſome ſay were mo<g ref="char:EOLhyphen"/>deſt and temperate, and then α is privative, as noting want of modeſty others affirm the people to be diſſolute &amp; lewd, α is intenſive, dilating and increaſing the ſenſe. Howſoever wantoneſſe is thought to be open profeſſion &amp; oſtentation of incontinency, by unchaſt words, geſtures apparel <hi>&amp;c.</hi> and ſo in wantonneſs is forbidden. 1 A wanton eye which glanceth, gazeth looks upon, 1 pictures which are unſeemly, bringing folly and filthineſs to the mind. 2 Perſons naked in whole or part of contrary ſex, 2 <hi>Sam.</hi> 11. 2. 3 And often, the 1 Beauty <hi>Prov.</hi> 6. 25. 2. Attire, <hi>Prov.</hi> 7. 10. of others. 2 A wanton tongue, ſo all obſcene ſpee<g ref="char:EOLhyphen"/>ches. 1 Such being forbidden, <hi>Eph.</hi> 4. 29. 2. As ſigns of an impure heart <hi>Luke</hi> 6. 45. 3. Such being temptations to the hearers corrupting them 1 <hi>Cor.</hi> 15. 33. 4. Such being a verbal acting of filthineſs. 5 Often and in ſome ſort more dangerous then the act, infecting far more. 6. Diſgra<g ref="char:EOLhyphen"/>cing
+<pb n="56" facs="tcp:168490:15"/> men, declaring what they are, for ſuch as the words are, ſuch u<g ref="char:EOLhyphen"/>ſually are the men. 3. A wanton ear given to ſcurrilous ſongs, wanton ſpeeches &amp; diſcourſes, <hi>Prov.</hi> 7. 11. <hi>with her ſpeech ſhe cauſed him to yeild.</hi> 4. A wanton lip given to wanton kiſſing, for as there are other, ſo there is the harlots kiſſe, <hi>Prov.</hi> 7. 13. 1 with intention to ſtir up luſt. 2 To nouriſh carnall and ſinfull luſt. 3 For carnall delight betwixt ſuch who are not married. 5. A wanton foot and a wanton hand given to filthy touching, which is as a dart, a ſpear, and a ſword.</p>
+               <p>All which or ſome of theſe uſually accompany ſuch wanton dancing and before we depart let me perſwade you to conſider.</p>
+               <p n="1">1. That an account muſt be given to God (and how ſoon we know not) of every idle word, <hi>Matth.</hi> 12. 36. ând muſt there not (think you) as ſtrict an account be given for idle geſtures, glances, paces, much more if they be uncivill, and cleerly ſinfull?</p>
+               <p n="2">2. <hi>Do evill communications corrupt good manners,</hi> 1 Cor. 15. 33. and do not evill geſtures alſo?</p>
+               <p n="3">3. Since <hi>Solomon</hi> ſaith of laughter, it is mad <hi>Eccl.</hi> 2. 2. what would he ſay think you of ſuch kind of dancing, in which ordinarily there is ſo much obſcene ſcurrility?</p>
+               <p n="4">4. Should your pleaders for dancing, deſcribe what manner of dan<g ref="char:EOLhyphen"/>cings and dancers muſt be to make a lawfull dancing, I ſuppoſe wee ſhould not find the one or the other amongſt our dancing companions nor in Sir <hi>Thomas Moores <g ref="char:V">Ʋ</g>topia.</hi>
+               </p>
+               <p n="5">5 And that in points diſputable, as it is a good rule to take the ſa<g ref="char:EOLhyphen"/>feſt courſe, ſo it is the ſafeſt and ſureſt courſe <hi>Not</hi> to ſport on the Lords day, <hi>Not</hi> to play at dice and cards, <hi>Not</hi> to be uſurers, <hi>Not</hi> to dance. You having heard ſo many grave and learned men condemn it, with<g ref="char:EOLhyphen"/>out diſpute as abominable in the ſight of God and men.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
